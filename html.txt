@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Virtual Classroom</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        .lesson, .quiz { padding: 20px; border: 1px solid #ccc; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<h1>Welcome to My Virtual Classroom</h1>
+<p>Teacher: Ms./Sir (Your Name)</p>
+
+<h2>Lessons</h2>
+
+<div class="lesson">
+    <h3>Lesson 1: Introduction</h3>
+    <p>This is where you will place your lesson content.</p>
+</div>
+
+<div class="lesson">
+    <h3>Lesson 2: Sample Topic</h3>
+    <p>You can add pictures, videos, and notes here.</p>
+</div>
+
+<h2>Quiz</h2>
+
+<div class="quiz">
+    <p><b>1. What is entrepreneurship?</b></p>
+    <input type="text" placeholder="Type your answer here">
+</div>
+
+</body>
+</html>
